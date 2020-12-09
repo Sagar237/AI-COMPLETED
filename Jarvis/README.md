@@ -14,6 +14,6 @@ Also made a couple of changes in this code
 
 Guys! Also remember to have a fast and secured internet connection to make this run. Because it is using google speech recognition api to understand the commands.
 
-Also, guys if you want contribute in this project and wants to add more features into it, give me suggestions in the comment box or email to me at mridul27gupta@gmail.com. 
+Also, guys if you want contribute in this project and wants to add more features into it, give me suggestions in the comment box or email to me at sagardto936@gmail.com. 
 
-Here is my Linkedin Profile: https://www.linkedin.com/in/mridulcse27/
+Here is my Linkedin Profile: https://www.linkedin.com/in/yaswant-sagar/
